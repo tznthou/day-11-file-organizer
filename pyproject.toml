@@ -1,0 +1,19 @@
+[project]
+name = "day-11-file-organizer"
+version = "0.1.0"
+description = "檔案整理大師 - 依年份/類型分類檔案，附帶統計報告與大檔案羞辱榜"
+readme = "README.md"
+authors = [
+    { name = "tznthou", email = "tznthou@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "rich>=14.2.0",
+]
+
+[project.scripts]
+file-organizer = "day_11_file_organizer:main"
+
+[build-system]
+requires = ["uv_build>=0.9.16,<0.10.0"]
+build-backend = "uv_build"
