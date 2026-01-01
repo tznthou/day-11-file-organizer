@@ -1,11 +1,11 @@
-# File Organizer
+# File Organizer 統計報告與大檔案羞辱榜
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776ab.svg)](https://www.python.org/)
 [![Rich](https://img.shields.io/badge/Rich-14.x-00d4aa.svg)](https://github.com/Textualize/rich)
 [![UV](https://img.shields.io/badge/UV-Package%20Manager-7c3aed.svg)](https://github.com/astral-sh/uv)
 
-[← 回到 Muripo HQ](https://tznthou.github.io/muripo-hq/)
+[← 回到 Muripo HQ](https://tznthou.github.io/muripo-hq/) | [English](README_EN.md)
 
 依照年份與類型自動分類檔案的命令列工具，附帶統計報告與「大檔案羞辱榜」。使用 **Rich** 打造精美的終端機輸出介面。
 
@@ -214,3 +214,9 @@ day-11-file-organizer/
 ## 授權
 
 本專案採用 [MIT License](LICENSE) 授權。
+
+---
+
+## 作者
+
+子超 - [tznthou@gmail.com](mailto:tznthou@gmail.com)
